@@ -52,7 +52,7 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <h1>Hello, {name}</h1>
+        <h1>Hello, {name} testing wrangler</h1>
         <p>This is a custom storefront powered by Hydrogen</p>
         <Outlet />
         <ScrollRestoration />
